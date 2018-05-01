@@ -5,6 +5,8 @@
    * [spring-framework学习笔记](java/spring-framework学习笔记.md)
 * Mysql等数据库
    * [mysql数据库主从同步-一](mysql/mysql数据库主从同步-一.md)
+   * Mysql等数据库
+    * [常用开发软件](linux/centos/常用开发软件.md)
    * [mysql数据库主从同步-二](mysql/mysql数据库主从同步-二.md)
 * linux服务器
    * [常用命令](linux/command/linux常用命令.md)
