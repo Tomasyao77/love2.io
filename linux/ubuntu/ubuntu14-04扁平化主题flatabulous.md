@@ -1,8 +1,3 @@
----
-title: ubuntu14.04扁平化主题flatabulous
-date: 2017-07-19 15:33:29
-tags: [ubuntu14.04,主题]
----
 ## 安装ubuntu-tweak或unity-tweak-tool
 **1.ubuntu-tweak**
 ```

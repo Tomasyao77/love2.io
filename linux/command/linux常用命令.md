@@ -1,8 +1,3 @@
----
-title: linux常用命令
-date: 2017-07-11 16:48:59
-tags: [linux,命令]
----
 ## 网络
 > apt install net-tools       # ifconfig 
 apt install iputils-ping     # ping

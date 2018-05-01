@@ -1,8 +1,3 @@
----
-title: frontEndBaseKnowledge
-date: 2017-12-15 09:56:23
-tags: [html,css,js]
----
 <!-- <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 <link href="https://cdn.bootcss.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
 <script src="https://cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>

@@ -1,8 +1,3 @@
----
-title: fastdfs+nginx搭建简单图床
-date: 2017-07-09 19:42:10
-tags: [fastdfs,nginx,图床]
----
 ## 安装fastdfs相关
 **1.libfastcommon fastdfs通用函数库**
 

@@ -1,8 +1,3 @@
----
-title: mysql存储过程花式查询
-date: 2017-07-27 09:11:28
-tags: [mysql,存储过程]
----
 ## 统计时间段查询
 ```
   CREATE PROCEDURE PROC_REPORT_SELECT_COUNT(IN parlorId INT)#0:报告数，1:阅读量，2:点评量，3:顾客数

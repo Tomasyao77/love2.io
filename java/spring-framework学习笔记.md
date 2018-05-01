@@ -1,9 +1,3 @@
----
-title: spring framework学习笔记
-date: 2017-10-23 19:26:26
-categories: 笔记
-tags: [spring]
----
 > 最新进度 
 
 **7.8 Container Extension Points之前**

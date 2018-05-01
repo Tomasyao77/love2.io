@@ -1,8 +1,3 @@
----
-title: 在centos7.3 64bit系统上解压安装mysql
-date: 2017-07-13 15:02:48
-tags: [centos,mysql,解压安装]
----
 ## 解压安装
 **1.从mysql官网下载 https://dev.mysql.com/downloads/mysql/**
 

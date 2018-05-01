@@ -1,8 +1,3 @@
----
-title: centos7.3配置java+tomcat+nginx等基础环境
-date: 2017-08-25 09:42:27
-tags: [centos,java,tomcat,nginx]
----
 ## 安装前准备
 **1 操作环境**
 > 服务器：阿里云 1核cpu 2G内存 1M带宽 40G云盘

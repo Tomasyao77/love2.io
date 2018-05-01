@@ -1,8 +1,3 @@
----
-title: linux偏僻操作
-date: 2017-08-02 16:41:31
-tags: [linux]
----
 ## 压缩解压
 > #zip
 unzip [name]

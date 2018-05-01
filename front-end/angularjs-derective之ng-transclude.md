@@ -1,8 +1,3 @@
----
-title: angularjs derective之ng-transclude
-date: 2017-10-08 14:57:24
-tags: [angularjs,derective]
----
 ## 特别感谢
 https://segmentfault.com/a/1190000004586636
 深受此篇文章影响,受益匪浅,非常感谢.

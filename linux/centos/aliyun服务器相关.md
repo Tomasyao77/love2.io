@@ -1,8 +1,3 @@
----
-title: aliyun服务器相关
-date: 2018-01-25 10:25:32
-tags: [aliyun,服务器]
----
 **阿里云服务器centos7 64位 必备软件**
 
 > ### java
