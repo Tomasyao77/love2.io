@@ -7,6 +7,8 @@
    * [在ubuntu上解压安装mysql](linux/ubuntu/在ubuntu上解压安装mysql.md)
    * [mysql数据库主从同步-一](mysql/mysql数据库主从同步-一.md)
    * [mysql数据库主从同步-二](mysql/mysql数据库主从同步-二.md)
+   * [mysql存储过程花式查询](mysql/mysql存储过程花式查询.md)
+   * [mysql高级操作](mysql/mysql高级操作.md)
 * 3) linux服务器
    * [常用命令](linux/command/linux常用命令.md)
    * [偏僻操作](linux/command/linux偏僻操作.md)
