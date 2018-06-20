@@ -6,7 +6,7 @@ CREATE DATABASE `test_db` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 ```
 select Host,User,authentication_string,password_expired from user;
 ```
-##　登录mysql
+## 登录mysql
 ```
 cd /data/zouy/install/mysql
 cd /data/zouy/install/mysql-s
@@ -20,7 +20,7 @@ BACK_DIR=/data/zouy/backup
 BACK_LOG_DIR=/data/zouy/backup/log
 #数据库参数
 account=root
-pwd=772052352
+pwd=***
 mysqlsock=/data/zouy/install/mysql/mysql.sock
 date=`date '+%Y-%m-%d_%H%M%S'`
 db=pocket
@@ -43,7 +43,7 @@ DUMP_DIR=/data/zouy/backup/dump
 DUMP_LOG_DIR=/data/zouy/backup/log
 #数据库参数
 account=root
-pwd=772052352
+pwd=***
 mysqlsock=/data/zouy/install/mysql/mysql.sock
 date=`date '+%Y-%m-%d_%H%M%S'`
 cd /data/zouy/install/mysql
@@ -70,10 +70,10 @@ cd /data/zouy/install/mysql
 bin/mysqldump --socket=${mysqlsock} -u${account} -p${pwd} -n -d -t -R ${db} | gzip > ${PROCEDURE_DIR}/${db}_procedure_${date}.sql.gz 2>${PROCEDURE_LOG_DIR}/${db}_procedurelog_${date}
 echo "backup success!"
 ```
-##恢复
+## 恢复
 执行sql语句而已，主从同步中，从库崩了后很常见的操作。以下命令表示在pocket数据库中执行mysql-pocket_tables.sql脚本。
 ```
 #!/bin/bash
 cd /data/zouy/install/mysql
-bin/mysql --socket=/data/zouy/install/mysql/mysql.sock -uroot -p772052352 -Dpocket < /data/zouy/backup/mysql-pocket_tables.sql
+bin/mysql --socket=/data/zouy/install/mysql/mysql.sock -uroot -p*** -Dpocket < /data/zouy/backup/mysql-pocket_tables.sql
 ```
