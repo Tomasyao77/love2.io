@@ -11,8 +11,6 @@
    * [mysql高级操作](mysql/mysql高级操作.md)
 * 3) linux服务器
    * [常用命令](linux/command/linux常用命令.md)
-   * [偏僻操作](linux/command/linux偏僻操作.md)
-   * [常用开发软件](linux/centos/常用开发软件.md)
    * centos
     * [aliyun服务器相关](linux/centos/aliyun服务器相关.md)
     * [centos7配置后端基础环境](linux/centos/centos7-3配置java-tomcat-nginx等基础环境.md)
